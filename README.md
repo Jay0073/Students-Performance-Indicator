@@ -7,6 +7,9 @@ This project aims to analyze and predict students' academic performance based on
 
 Understanding the factors that influence student performance is crucial for educators, policymakers, and stakeholders in the education sector. By analyzing data from students, we can uncover how demographic and socio-economic factors affect their academic achievements. This project provides a comprehensive analysis of the impact of various attributes on students' test scores, enabling data-driven decisions to enhance educational strategies and interventions.
 
+## Data 
+[Get data from here](https://www.kaggle.com/datasets/spscientist/students-performance-in-exams?datasetId=74977)
+
 ## Feature Information
 
 The dataset contains the following attributes/features:
